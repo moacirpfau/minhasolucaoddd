@@ -1,0 +1,11 @@
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\bin\Debug\net8.0\MinhaSolucaoDDD.Domain.deps.json
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\bin\Debug\net8.0\MinhaSolucaoDDD.Domain.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\bin\Debug\net8.0\MinhaSolucaoDDD.Domain.pdb
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\obj\Debug\net8.0\MinhaSolucaoDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\obj\Debug\net8.0\MinhaSolucaoDDD.Domain.AssemblyInfoInputs.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\obj\Debug\net8.0\MinhaSolucaoDDD.Domain.AssemblyInfo.cs
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\obj\Debug\net8.0\MinhaSolucaoDDD.Domain.csproj.CoreCompileInputs.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\obj\Debug\net8.0\MinhaSolucaoDDD.Domain.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\obj\Debug\net8.0\refint\MinhaSolucaoDDD.Domain.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\obj\Debug\net8.0\MinhaSolucaoDDD.Domain.pdb
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Domain\obj\Debug\net8.0\ref\MinhaSolucaoDDD.Domain.dll

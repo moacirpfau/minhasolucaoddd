@@ -1,0 +1,17 @@
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\bin\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.deps.json
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\bin\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.runtimeconfig.json
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\bin\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\bin\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.pdb
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\bin\Debug\net8.0\MinhaSolucaoDDD.Domain.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\bin\Debug\net8.0\MinhaSolucaoDDD.Domain.pdb
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.csproj.AssemblyReference.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.AssemblyInfoInputs.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.AssemblyInfo.cs
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSol.BE9E0A48.Up2Date
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\refint\MinhaSolucaoDDD.Infrastructure.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.pdb
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\MinhaSolucaoDDD.Infrastructure.genruntimeconfig.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Infrastructure\obj\Debug\net8.0\ref\MinhaSolucaoDDD.Infrastructure.dll

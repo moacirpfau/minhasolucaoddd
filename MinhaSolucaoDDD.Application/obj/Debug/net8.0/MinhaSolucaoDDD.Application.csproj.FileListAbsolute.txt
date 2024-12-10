@@ -1,0 +1,15 @@
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\bin\Debug\net8.0\MinhaSolucaoDDD.Application.deps.json
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\bin\Debug\net8.0\MinhaSolucaoDDD.Application.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\bin\Debug\net8.0\MinhaSolucaoDDD.Application.pdb
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\bin\Debug\net8.0\MinhaSolucaoDDD.Domain.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\bin\Debug\net8.0\MinhaSolucaoDDD.Domain.pdb
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\MinhaSolucaoDDD.Application.csproj.AssemblyReference.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\MinhaSolucaoDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\MinhaSolucaoDDD.Application.AssemblyInfoInputs.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\MinhaSolucaoDDD.Application.AssemblyInfo.cs
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\MinhaSolucaoDDD.Application.csproj.CoreCompileInputs.cache
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\MinhaSol.E50C325D.Up2Date
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\MinhaSolucaoDDD.Application.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\refint\MinhaSolucaoDDD.Application.dll
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\MinhaSolucaoDDD.Application.pdb
+C:\workspace_bee4\MinhaSolucaoDDD\MinhaSolucaoDDD.Application\obj\Debug\net8.0\ref\MinhaSolucaoDDD.Application.dll

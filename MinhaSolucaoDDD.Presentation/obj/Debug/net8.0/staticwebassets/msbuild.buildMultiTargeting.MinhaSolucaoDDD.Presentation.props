@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MinhaSolucaoDDD.Presentation.props" />
+</Project>
